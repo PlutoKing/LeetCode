@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC1-two-sum", "LC1-two-sum\LC1-two-sum.csproj", "{F4E18B66-6039-47EA-A0CE-104605103136}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC771-jewels-and-stones", "LC771-jewels-and-stones\LC771-jewels-and-stones.csproj", "{B0A63EEE-C5DA-4819-A30A-BBC3D258FB41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F4E18B66-6039-47EA-A0CE-104605103136}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E18B66-6039-47EA-A0CE-104605103136}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E18B66-6039-47EA-A0CE-104605103136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A63EEE-C5DA-4819-A30A-BBC3D258FB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A63EEE-C5DA-4819-A30A-BBC3D258FB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A63EEE-C5DA-4819-A30A-BBC3D258FB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A63EEE-C5DA-4819-A30A-BBC3D258FB41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+I:\LeetCode\LeetCodeCSharp\LC771-jewels-and-stones\bin\Debug\LC771-jewels-and-stones.exe.config
+I:\LeetCode\LeetCodeCSharp\LC771-jewels-and-stones\bin\Debug\LC771-jewels-and-stones.exe
+I:\LeetCode\LeetCodeCSharp\LC771-jewels-and-stones\bin\Debug\LC771-jewels-and-stones.pdb
+I:\LeetCode\LeetCodeCSharp\LC771-jewels-and-stones\obj\Debug\LC771-jewels-and-stones.csprojAssemblyReference.cache
+I:\LeetCode\LeetCodeCSharp\LC771-jewels-and-stones\obj\Debug\LC771-jewels-and-stones.csproj.CoreCompileInputs.cache
+I:\LeetCode\LeetCodeCSharp\LC771-jewels-and-stones\obj\Debug\LC771-jewels-and-stones.exe
+I:\LeetCode\LeetCodeCSharp\LC771-jewels-and-stones\obj\Debug\LC771-jewels-and-stones.pdb

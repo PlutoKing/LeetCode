@@ -1,11 +1,4 @@
-﻿/*──────────────────────────────────────────────────────────────
- * FileName     : Program.cs
- * Created      : 2021-04-22 16:31:09
- * Author       : Xu Zhe
- * Description  : 
- * ──────────────────────────────────────────────────────────────*/
-
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 
