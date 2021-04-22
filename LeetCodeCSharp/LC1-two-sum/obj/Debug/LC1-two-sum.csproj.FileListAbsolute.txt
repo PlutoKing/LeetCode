@@ -1,0 +1,7 @@
+I:\LeetCode\LeetCodeCSharp\LC1-two-sum\bin\Debug\LC1-two-sum.exe.config
+I:\LeetCode\LeetCodeCSharp\LC1-two-sum\bin\Debug\LC1-two-sum.exe
+I:\LeetCode\LeetCodeCSharp\LC1-two-sum\bin\Debug\LC1-two-sum.pdb
+I:\LeetCode\LeetCodeCSharp\LC1-two-sum\obj\Debug\LC1-two-sum.csprojAssemblyReference.cache
+I:\LeetCode\LeetCodeCSharp\LC1-two-sum\obj\Debug\LC1-two-sum.csproj.CoreCompileInputs.cache
+I:\LeetCode\LeetCodeCSharp\LC1-two-sum\obj\Debug\LC1-two-sum.exe
+I:\LeetCode\LeetCodeCSharp\LC1-two-sum\obj\Debug\LC1-two-sum.pdb
