@@ -26,6 +26,7 @@ namespace LC771_jewels_and_stones
 
         public static int NumJewelsInStones(string jewels, string stones)
         {
+            // 初始化计数器，作为返回值
             int cnt = 0;
             // 创建Hash表
             HashSet<char> jewelsMap = new HashSet<char>();
@@ -48,7 +49,7 @@ namespace LC771_jewels_and_stones
                     cnt++;
                 }
             }
-
+            // 返回结果
             return cnt;
         }
     }

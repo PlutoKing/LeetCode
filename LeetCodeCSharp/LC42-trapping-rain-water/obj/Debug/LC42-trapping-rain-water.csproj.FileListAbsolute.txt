@@ -1,0 +1,7 @@
+I:\LeetCode\LeetCodeCSharp\LC42-trapping-rain-water\bin\Debug\LC42-trapping-rain-water.exe.config
+I:\LeetCode\LeetCodeCSharp\LC42-trapping-rain-water\bin\Debug\LC42-trapping-rain-water.exe
+I:\LeetCode\LeetCodeCSharp\LC42-trapping-rain-water\bin\Debug\LC42-trapping-rain-water.pdb
+I:\LeetCode\LeetCodeCSharp\LC42-trapping-rain-water\obj\Debug\LC42-trapping-rain-water.csprojAssemblyReference.cache
+I:\LeetCode\LeetCodeCSharp\LC42-trapping-rain-water\obj\Debug\LC42-trapping-rain-water.csproj.CoreCompileInputs.cache
+I:\LeetCode\LeetCodeCSharp\LC42-trapping-rain-water\obj\Debug\LC42-trapping-rain-water.exe
+I:\LeetCode\LeetCodeCSharp\LC42-trapping-rain-water\obj\Debug\LC42-trapping-rain-water.pdb
