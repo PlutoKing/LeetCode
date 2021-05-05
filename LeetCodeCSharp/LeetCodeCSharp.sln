@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC771-jewels-and-stones", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC42-trapping-rain-water", "LC42-trapping-rain-water\LC42-trapping-rain-water.csproj", "{D2025BB1-6302-4CEA-B73B-5097E47CD6C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC4-median-of-two-sorted-arrays", "LC4-median-of-two-sorted-arrays\LC4-median-of-two-sorted-arrays.csproj", "{47393BD1-C306-463E-90F4-74394B13198E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D2025BB1-6302-4CEA-B73B-5097E47CD6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2025BB1-6302-4CEA-B73B-5097E47CD6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2025BB1-6302-4CEA-B73B-5097E47CD6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47393BD1-C306-463E-90F4-74394B13198E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47393BD1-C306-463E-90F4-74394B13198E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47393BD1-C306-463E-90F4-74394B13198E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47393BD1-C306-463E-90F4-74394B13198E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
